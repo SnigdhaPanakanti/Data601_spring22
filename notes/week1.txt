@@ -1,0 +1,3 @@
+Expected bash commands for 3a,3b and 3c!
+
+hw: 75
