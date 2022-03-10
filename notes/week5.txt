@@ -1,0 +1,5 @@
+Should've explained the insights from the plots in lab!
+Well done with HW!
+
+lab: 80
+hw: 100
