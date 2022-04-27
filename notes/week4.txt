@@ -1,5 +1,0 @@
-No outputs for HW!
-Please find the attached solutions in the discussion board for lab!
-
-hw: 0
-lab: 60

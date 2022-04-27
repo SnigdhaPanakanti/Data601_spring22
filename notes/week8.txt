@@ -1,4 +1,0 @@
-Columns aren't parsed properly. Duration column isn't appended. 
-
-hw: 60
-lab: 100

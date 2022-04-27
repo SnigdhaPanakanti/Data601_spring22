@@ -1,7 +1,0 @@
-Good job with lab!
-In homework, there is no difference betweem fair and biased die simulations!
-Should've assigned weights to biased die!
-Do not print the outcomes of trials, just plot the graphs!
-
-lab: 100
-hw: 70

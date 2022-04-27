@@ -1,3 +1,0 @@
-Should've plotted a curve for distribution graphs!
-
-hw: 90
